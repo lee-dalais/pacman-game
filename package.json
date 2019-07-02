@@ -1,0 +1,28 @@
+{
+  "name": "pacman-game",
+  "version": "1.0.0",
+  "description": "Think LOGO!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lee-dalais@github.com/lee-dalais/pacman-game.git"
+  },
+  "author": "Lee Dalais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lee-dalais/pacman-game/issues"
+  },
+  "homepage": "https://github.com/lee-dalais/pacman-game#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "shell": "^0.5.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
